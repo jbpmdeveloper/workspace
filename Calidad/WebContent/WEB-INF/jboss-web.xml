@@ -1,0 +1,4 @@
+<jboss-web>
+      <security-domain>java:/jaas/jbpm</security-domain>
+      <context-root>/Calidad</context-root> 
+</jboss-web>
